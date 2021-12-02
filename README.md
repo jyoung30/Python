@@ -1,5 +1,6 @@
 # python-homework
 ![revenue-per-lead](https://user-images.githubusercontent.com/71282811/144494732-27e95e16-804f-4614-8d00-9e6c9d18cf9f.jpg)
+
 In this activity, you are tasked with creating a Python script for analyzing the financial records of your company. You will be provided with a financial dataset in this file: budget_data.csv. This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
